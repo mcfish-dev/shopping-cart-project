@@ -9,6 +9,8 @@ import com.example.shoppingcartproject.model.UserRole;
 /**
  * User Model
  * User mode class defines the basic information of a user and stores it in the database.
+ * @version 1.0
+ * @since 2025-05-18
  */
 
 @Entity
